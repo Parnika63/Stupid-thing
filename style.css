@@ -1,0 +1,39 @@
+body{
+    background-color: lightsalmon;
+    text-align: center;
+    font-family: cursive;
+}
+
+h1{
+    font-size: 20px;
+    color: darkblue;
+}
+
+h2{
+    font-size: 20px;
+    color: black;
+}
+
+h3{
+    font-size: 20px;
+    color: deeppink;
+}
+
+h4{
+    font-size: 20px;
+    color: black;
+}
+
+h5{
+    font-size: 20px;
+    color: mediumvioletred;
+}
+h6{
+    font-size: 20px;
+    color: green;
+}
+
+h7{
+    font-size: 20px;
+    color: deeppink;
+}
